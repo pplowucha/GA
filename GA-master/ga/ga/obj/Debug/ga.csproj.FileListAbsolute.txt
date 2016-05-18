@@ -1,0 +1,6 @@
+C:\Users\Sau\Desktop\msiProject\GA-master\ga\ga\bin\Debug\ga.exe.config
+C:\Users\Sau\Desktop\msiProject\GA-master\ga\ga\obj\Debug\ga.csprojResolveAssemblyReference.cache
+C:\Users\Sau\Desktop\msiProject\GA-master\ga\ga\bin\Debug\ga.exe
+C:\Users\Sau\Desktop\msiProject\GA-master\ga\ga\bin\Debug\ga.pdb
+C:\Users\Sau\Desktop\msiProject\GA-master\ga\ga\obj\Debug\ga.exe
+C:\Users\Sau\Desktop\msiProject\GA-master\ga\ga\obj\Debug\ga.pdb
